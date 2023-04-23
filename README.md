@@ -15,4 +15,4 @@ The information for this project came directly from [DotA 2's Wiki](https://dota
 
 The Python implementation uses mainly `pandas` and `numpy` libraries, and `matplotlib` for plotting graphs.
 
-The full analysis can be seen in the [`dota2_7_33_analysis.ipynb` file](https://github.com/renatoinomata/DotA2_7.33_Gold/blob/master/dota2_7_33_analysis.ipynb)
+The full analysis can be seen in the [`dota2_7_33_analysis.ipynb`](https://github.com/renatoinomata/DotA2_7.33_Gold/blob/master/dota2_7_33_analysis.ipynb) file.
