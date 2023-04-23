@@ -14,3 +14,5 @@ This notebook will provide an overview for how much the game has changed economy
 The information for this project came directly from [DotA 2's Wiki](https://dota2.fandom.com/wiki/Gold), and the [official 7.33 patch notes](https://www.dota2.com/patches/7.33). 
 
 The Python implementation uses mainly `pandas` and `numpy` libraries, and `matplotlib` for plotting graphs.
+
+The full analysis can be seen in the [`dota2_7_33_analysis.ipynb` file](https://github.com/renatoinomata/DotA2_7.33_Gold/blob/master/dota2_7_33_analysis.ipynb)
