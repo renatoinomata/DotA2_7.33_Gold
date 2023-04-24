@@ -15,4 +15,4 @@ The information for this project came directly from [DotA 2's Wiki](https://dota
 
 The Python implementation uses mainly `pandas` and `numpy` libraries, and `matplotlib` for plotting graphs.
 
-The full analysis can be seen in the [`dota2_7_33_analysis.ipynb`](https://github.com/renatoinomata/DotA2_7.33_Gold/blob/master/dota2_7_33_analysis.ipynb) file.
+The full analysis can be seen in the [`dota2_7_33_analysis.ipynb`](https://github.com/renatoinomata/DotA2_7.33_Gold/blob/master/dota2_7_33_analysis.ipynb) file. I also made a post on [Reddit](https://www.reddit.com/r/DotA2/comments/12w9phc/patch_733_gold_available_analysis/), in which other players discussed the subject.
